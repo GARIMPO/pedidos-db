@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" fill="#2E7D32" rx="86"/>
+  <!-- Fundo do ícone com degradê verde representando finanças -->
+  <defs>
+    <linearGradient id="financeBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#388E3C"/>
+      <stop offset="100%" stop-color="#1B5E20"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#financeBg)" rx="86"/>
+  
+  <!-- Símbolo de dólar estilizado -->
+  <path d="M256 103C233.909 103 216 120.909 216 143V183H176V223H216V289H176V329H216V369C216 391.091 233.909 409 256 409C278.091 409 296 391.091 296 369V329H336V289H296V223H336V183H296V143C296 120.909 278.091 103 256 103ZM256 143C256 143 256 143 256 143C256 143 256 143 256 143V183H256V143ZM256 223H256V289H256V223ZM256 329H256V369C256 369 256 369 256 369C256 369 256 369 256 369V329Z" fill="white"/>
+  
+  <!-- Moedas/círculos representando dinheiro -->
+  <circle cx="155" cy="240" r="40" fill="#FFD700" opacity="0.8"/>
+  <circle cx="357" cy="240" r="40" fill="#FFD700" opacity="0.8"/>
+  <circle cx="256" cy="330" r="40" fill="#FFD700" opacity="0.8"/>
+</svg> 

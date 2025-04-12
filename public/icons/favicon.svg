@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+  <!-- Fundo do ícone com degradê verde representando finanças -->
+  <defs>
+    <linearGradient id="financeBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#388E3C"/>
+      <stop offset="100%" stop-color="#1B5E20"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" fill="url(#financeBg)" rx="8"/>
+  
+  <!-- Símbolo de dólar estilizado -->
+  <path d="M24 9.5C22.067 9.5 20.5 11.067 20.5 13V17H16.5V21H20.5V27H16.5V31H20.5V35C20.5 36.933 22.067 38.5 24 38.5C25.933 38.5 27.5 36.933 27.5 35V31H31.5V27H27.5V21H31.5V17H27.5V13C27.5 11.067 25.933 9.5 24 9.5Z" fill="white"/>
+  
+  <!-- Moedas/círculos representando dinheiro -->
+  <circle cx="14.5" cy="22.5" r="3.5" fill="#FFD700" opacity="0.8"/>
+  <circle cx="33.5" cy="22.5" r="3.5" fill="#FFD700" opacity="0.8"/>
+  <circle cx="24" cy="31" r="3.5" fill="#FFD700" opacity="0.8"/>
+</svg> 
